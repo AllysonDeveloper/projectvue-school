@@ -1,0 +1,31 @@
+{
+  "alunos": [
+    {
+      "nome": "Allyson",
+      "id": 1
+    },
+    {
+      "nome": "Gabriel",
+      "id": 2
+    },
+    {
+      "nome": "José",
+      "id": 3
+    },
+    {
+      "nome": "André",
+      "id": 4
+    },
+    {
+      "nome": "Tiago",
+      "id": 6
+    },
+    {
+      "nome": "Paulo",
+      "id": 7
+    }
+  ],
+  "matricula": {
+    "count": 4
+  }
+}
